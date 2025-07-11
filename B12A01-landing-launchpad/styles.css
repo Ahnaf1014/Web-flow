@@ -342,7 +342,7 @@ nav button:hover{
     padding: 0; 
 } 
 
- /* .footer-nav a {
+ .footer-nav a {
     text-decoration: none;
     color: #8987A1;
     font-size: 14px;
@@ -351,4 +351,4 @@ nav button:hover{
 
 .footer-nav a:hover {
     color: #4f46e5;
-} */
+}
