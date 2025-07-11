@@ -7,7 +7,7 @@ body {
 
 /* Form */
 
-/* .container {
+.container {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -115,7 +115,7 @@ form ol li {
 .banner_content button:hover{
      background-color: #4E47FF;
 
-} */
+}
 /* Navbar */
 /* header nav {
     display: flex;
