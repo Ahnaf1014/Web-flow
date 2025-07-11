@@ -188,7 +188,7 @@ nav button:hover{
 
 /* productive user */
 
-/* .product_user{
+.product_user{
     background-color: rgba(78, 71, 255, 0.5);
     border-radius: 25px;
     margin: 0px 150px 100px 150px ;
@@ -218,7 +218,7 @@ nav button:hover{
 /* testimonial */
 
 /* Testimonials Section */
-/* .testimonials {
+ .testimonials {
     background-color: #f8f9fa;
     margin-bottom: 150px;
     text-align: center;
@@ -233,9 +233,9 @@ nav button:hover{
     font-size: 2.5rem;
     color: #2d3748;
     margin-bottom: 20px;
-} */
+}
 
-/* .stars {
+.stars {
     display: flex;
     justify-content: center;
     gap: 8px;
@@ -245,9 +245,9 @@ nav button:hover{
 .star-icon {
     width: 24px;
     height: 24px;
-} */
+}
 
-/* .testimonial-grid {
+.testimonial-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 30px;
@@ -301,11 +301,11 @@ nav button:hover{
 .testimonial-date {
     color: #718096;
     font-size: 0.875rem;
-} */
+}
 
 
 /* footer */
-/* footer {
+ footer {
     background-color: #ffffff;
     padding: 40px 20px;
     text-align: center;
@@ -330,9 +330,9 @@ nav button:hover{
     color: #8987A1;
     margin: 0 0 20px 0;
     line-height: 1.5;
-} */
+}
 
-/* footer .footer-nav {
+ footer .footer-nav {
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -340,9 +340,9 @@ nav button:hover{
     width: 100%;
     margin: 0 auto; 
     padding: 0; 
-} */
+} 
 
-/* .footer-nav a {
+ /* .footer-nav a {
     text-decoration: none;
     color: #8987A1;
     font-size: 14px;
