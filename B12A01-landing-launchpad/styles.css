@@ -88,7 +88,7 @@ form ol li {
 
 
 /* banner */
-/* .banner{
+.banner{
     background-image: url(Assets/Hero-bg.png);
 
 
@@ -117,7 +117,7 @@ form ol li {
 
 }
 /* Navbar */
-/* header nav {
+header nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -149,7 +149,7 @@ nav button:hover{
 
 
 /* action */
-/* .action{
+.action{
     display: flex;
     justify-content: space-between;
     margin: 116px 160px;
@@ -184,7 +184,7 @@ nav button:hover{
 
 .action button:hover{
      background-color: #4E47FF;
-} */
+}
 
 /* productive user */
 
