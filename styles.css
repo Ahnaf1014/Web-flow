@@ -16,12 +16,12 @@ body {
 }
 
 .container h1 {
-    font-size: 48px;
+    font-size: 80px;
     font-weight: bold;
     color: #000;
-    max-width: 350px;
+    max-width: 500px;
     line-height: 1.2;
-    margin: 0;
+    margin-left: 100px;
 }
 
 .info {
@@ -52,6 +52,7 @@ form ol li {
     font-size: 14px;
     color: #333;
     margin-bottom: 5px;
+    font-weight: bold;
 }
 
 .info input,
@@ -70,7 +71,7 @@ form ol li {
 }
 
 .info button {
-    background-color: #4f46e5;
+    background-color: blueviolet;
     color: white;
     border: none;
     padding: 12px;
